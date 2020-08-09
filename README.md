@@ -1,1 +1,1 @@
-# Machine_Learning_Algorithms_from_Scratch
+# Machine Learning Algorithms From Scratch
