@@ -4,9 +4,9 @@
 
 ![Least Squares](https://img.shields.io/badge/Least%20Squares-Completed-red)  ![Gradient Descent](https://img.shields.io/badge/Gradient%20Descent-Completed-red)  ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Completed-red) ![K-NN](https://img.shields.io/badge/K--NN-Completed-red) ![PCA](https://img.shields.io/badge/PCA-Under%20Progress-important)
 
-This repository is my attempt at demystifying machine learning algorithms, each section of this repository will contain an explanatory notebook in which I will try my very best at explaining the mathematical intuition behind the ML algorithm and in conjunction with that a bare bones Numpy implementation of the algorithm will also be developed.
+This repository is my attempt at demystifying machine learning algorithms. Each section of this repository will contain an explanatory notebook in which I will try my very best to explain the mathematical intuition behind the ML algorithm. In conjunction with that, a bare-bones Numpy implementation of the algorithm will also be developed.
 
-This repository will always be a work in progress and i will add new algorithm as i go.
+This repository will always be a work in progress, and I will add new algorithms as I go.  
 
 ## Content:
 
