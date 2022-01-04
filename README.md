@@ -13,7 +13,7 @@ This repository will always be a work in progress and i will add new algorithm a
 ### 1. Supervised Learning:
    * [Least Squares Regression(Multi_Linear)](https://github.com/ITrustNumbers/Machine_Learning_Algorithms_from_Scratch/tree/master/Least_Squares_Regression(Multi_Linear))
    * [Linear Regression Gradient Descent](https://github.com/ITrustNumbers/Machine_Learning_Algorithms_from_Scratch/tree/master/Linear_Regression_Gradient_Descent)
-   * [Logistic Rgression](https://github.com/ITrustNumbers/Machine_Learning_Algorithms_from_Scratch/tree/master/Logistic_Regression)
+   * [Logistic Regression](https://github.com/ITrustNumbers/Machine_Learning_Algorithms_from_Scratch/tree/master/Logistic_Regression)
    * [K-Nearest Neighbors](https://github.com/ITrustNumbers/Machine_Learning_Algorithms_from_Scratch/tree/master/KNN_Classification)
 
 ### 2. Unsupervised Learning:
